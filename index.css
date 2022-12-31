@@ -1,0 +1,58 @@
+body{
+    font-family: 'Kanit', sans-serif;
+    /* background-image: url(https://images.unsplash.com/photo-1671584643551-2a30a1b2ad88?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80);
+    background-size: cover;
+    background-position: center; */
+}
+.parentdiv{
+    border: 2px solid black;
+    background-image: url(https://images.unsplash.com/photo-1671584643551-2a30a1b2ad88?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80);
+    background-size: cover;
+    background-position: center; 
+}
+.childdiv{
+    /* border: 2px solid black; */
+    margin: 10px;
+}
+.orderedlist{
+    list-style:none;
+    text-align: center;
+    /* border: 2px solid black; */
+}
+.listitems{
+    color:blanchedalmond;
+    display: inline-block;
+    /* border: 1px solid yellow; */
+    margin: 0px 10px;
+}
+.mainheading{
+    font-size: 40px;
+    color:thistle;
+    text-align: center;
+}
+.image{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    float: left; 
+    margin: 0px 30px;
+}
+.paragraph{
+    color: white;
+    /* display: inline-block; */
+    line-height: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+} 
+.a{
+    text-decoration: none;
+    color: burlywood;
+    font-size: 20px;
+}
+img{
+    height: 100vh;
+}
+.abd{
+    /* To put the footer at the end of the page  */
+    /* margin-top:calc(5% + 60px); */
+}
